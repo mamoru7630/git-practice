@@ -6,3 +6,4 @@ git練習用
 branchで編集中
 branch 編集２回目
 
+branchの復習
